@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="20011273-5_John_Kryger/css/estilos.css">
+    <link rel="stylesheet" href="source/css/estilos.css">
     <title>Projeto DEV</title>
 </head>
 <body>
@@ -20,6 +20,11 @@
                         <li>
                             <a href="exercicio.php?dir=basico&file=ola">
                                 Olá PHP
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=html">
+                               Integração HTML
                             </a>
                         </li>                       
                     </ul>
