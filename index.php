@@ -31,7 +31,12 @@
                             <a href="exercicio.php?dir=basico&file=css">
                                Integração CSS
                             </a>
-                        </li>                     
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=desafio">
+                               Desafio PHP
+                            </a>
+                        </li>
                     </ul>
                 </div>
              </nav>  
