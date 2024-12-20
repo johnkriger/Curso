@@ -82,6 +82,11 @@
                                 Basico
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=desafio_equacoes">
+                                Desafio
+                            </a>
+                        </li>
                     </ul>
                 </div>
              </nav>  
