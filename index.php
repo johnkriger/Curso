@@ -88,6 +88,11 @@
                             </a>
                         </li>
                         <li>
+                            <a href="exercicio.php?dir=variaveis&file=atribuicao">
+                                Atribuição
+                            </a>
+                        </li>
+                        <li>
                             <a href="exercicio.php?dir=variaveis&file=interpolacao">
                                 Interpolação
                             </a>
