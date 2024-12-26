@@ -8,5 +8,5 @@ $consegui = 'responder';
 $responder = 'esse';
 $esse = 'desafio';
 
-echo "$a! ${$a} ${$$a} ${$$$a} ${$$$$a} ${$$$$$a}."
+echo "$a! {$$a} {$$$a} {$$$$a} {$$$$$a} {$$$$$$a}."
 ?>
