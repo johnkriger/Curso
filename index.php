@@ -107,6 +107,11 @@
                                 Variáveis por referência
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=constantes">
+                                Constantes
+                            </a>
+                        </li>
                     </ul>
                 </div>
              </nav>  
