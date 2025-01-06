@@ -127,6 +127,11 @@
                                 Op. Realcionais
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio_pi">
+                                Desafio If
+                            </a>
+                        </li>
                     </ul>
                 </div>
              </nav>  
