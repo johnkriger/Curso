@@ -132,6 +132,11 @@
                                 Desafio If
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio_operadores">
+                                Desafio Operadores
+                            </a>
+                        </li>
                     </ul>
                 </div>
              </nav>  
