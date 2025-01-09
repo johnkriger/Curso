@@ -137,6 +137,11 @@
                                 Desafio Operadores
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=ternario">
+                                If Ternário
+                            </a>
+                        </li>
                     </ul>
                 </div>
              </nav>  
