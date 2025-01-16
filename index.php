@@ -154,6 +154,21 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo laranja">
+                    <h3>Controle</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=array">
+                                Array
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=sorteio">
+                                Sorteio
+                            </a>
+                        </li>
+                    </ul>
+                </div>
              </nav>  
         </div>
     </main>
