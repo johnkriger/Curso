@@ -57,5 +57,14 @@ for ($i = 0; $i<count($aleatorio); $i++) {
     };
     echo '<br>';
 };
+echo '<hr>';
+echo 'Tabuada:<br>';
+for ($i = 1; $i <= 10; $i++) {
+    // echo "Tabuada do $i";
+    for ($j = 0; $j <= 10; $j++) {
+        print_r($i . 'x' . $j . '=' . $i * $j . '<br>');
+    }
+    echo '<hr>';
+}
 
 ?>
