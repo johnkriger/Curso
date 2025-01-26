@@ -187,6 +187,11 @@
                                 Foreach
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=repeticoes&file=break_continue">
+                                Break e Continue
+                            </a>
+                        </li>
                     </ul>
                 </div>
              </nav>  
