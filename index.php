@@ -155,7 +155,7 @@
                     </ul>
                 </div>
                 <div class="modulo laranja">
-                    <h3>Controle</h3>
+                    <h3>Array</h3>
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=array&file=array">
@@ -200,6 +200,11 @@
                         <li>
                             <a href="exercicio.php?dir=repeticoes&file=while">
                                 While/Do While
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=repeticoes&file=tabela_desafio">
+                                Desafio Tabela
                             </a>
                         </li>
                     </ul>
