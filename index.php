@@ -222,6 +222,11 @@
                                 Args & Retorno
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=palindromo">
+                                Palíndromo
+                            </a>
+                        </li>
                     </ul>
                 </div>
              </nav>  
