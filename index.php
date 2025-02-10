@@ -232,6 +232,11 @@
                                 Argumento Variável
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=recursividade">
+                                Recursividade
+                            </a>
+                        </li>
                     </ul>
                 </div>
              </nav>  
