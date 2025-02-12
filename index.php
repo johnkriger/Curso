@@ -237,6 +237,11 @@
                                 Recursividade
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=map_filter">
+                                Map & Filer
+                            </a>
+                        </li>
                     </ul>
                 </div>
              </nav>  
