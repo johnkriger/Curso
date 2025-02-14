@@ -244,6 +244,16 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo azul-escuro">
+                    <h3>Orientação a Objetos</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=orientacao_objetos&file=classe">
+                                Classe
+                            </a>
+                        </li>
+                    </ul>
+                </div>
              </nav>  
         </div>
     </main>
