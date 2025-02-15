@@ -252,6 +252,16 @@
                                 Classe
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=orientacao_objetos&file=ClasseData.class">
+                                Classe Data
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=orientacao_objetos&file=construtor_destrutor">
+                                Construtor & Destrutor
+                            </a>
+                        </li>
                     </ul>
                 </div>
              </nav>  
