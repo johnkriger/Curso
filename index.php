@@ -262,6 +262,11 @@
                                 Construtor & Destrutor
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=orientacao_objetos&file=heranca">
+                                Herança
+                            </a>
+                        </li>
                     </ul>
                 </div>
              </nav>  
