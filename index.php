@@ -267,6 +267,16 @@
                                 Herança
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=orientacao_objetos&file=jogo_erros">
+                                Jogo dos Erros
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=orientacao_objetos&file=jogo_erros_correcao">
+                                Jogo dos Erros Correção
+                            </a>
+                        </li>
                     </ul>
                 </div>
              </nav>  
